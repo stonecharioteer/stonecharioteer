@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Logo](stonecharioteer.png)
+
 I'm Vinay Keerthi, and I go by @stonecharioteer everywhere. I blog at
 [stonecharioteer.com](https://stonecharioteer.com), about technology, life as a
 programmer and, sometimes, traveling and books.

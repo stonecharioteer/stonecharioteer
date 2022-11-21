@@ -7,9 +7,8 @@ I'm Vinay Keerthi, and I go by @stonecharioteer everywhere. I blog at
 programmer and, sometimes, traveling and books.
 
 I am active in the Python meetup space in Bangalore and India, and I've been
-mentoring graduates and junior developers. I currently work at Merkle Science as
-an Architect/Lead Software Developer. I code in Python and Rust, and I am an
-avid Linux user.
+mentoring graduates and junior developers. I work at ChainSafe.io, where I use Rust primarily.
+I've used Python for 8 years and I'm an avid Linux user.
 
 I've also dabbled in MicroPython and UI Development. I enjoy talking about
 development practices, and technology in general.
